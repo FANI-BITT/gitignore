@@ -1,0 +1,20 @@
+# API Keys اور حساس فائلز
+.env
+config.json
+openai_api_key.txt
+
+# ورچوئل انوائرمنٹ
+venv/
+*.pyc
+__pycache__/
+
+# لاگ فائلز اور آؤٹ پٹ
+*.log
+*.out
+
+# بڑی فائلیں
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.mp4
